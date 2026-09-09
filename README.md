@@ -144,941 +144,479 @@ The strongest production architecture generally combines all four.
 
 ## Open-Source Complete Shift Scheduling Platforms
 
+### Gauzy [![GitHub stars](https://img.shields.io/github/stars/ever-co/gauzy?style=social&color=white)](https://github.com/ever-co/gauzy/stargazers)
 
-
-### Schichtplaner
-
-
-
-**[Schichtplaner](https://github.com/lennystepn-hue/schichtplaner)** is a self-hosted shift-planning and workforce-management application.
-
-
+**[Gauzy](https://github.com/ever-co/gauzy)** [![GitHub stars](https://img.shields.io/github/stars/ever-co/gauzy?style=social&color=white)](https://github.com/ever-co/gauzy/stargazers) is an open-source ERP, HRM, and workforce management solution for on-demand, shift-based, and remote teams.
 
 Features include:
+* Shift scheduling & employee calendar
+* Time tracking & automated timesheets
+* Project & expense tracking
+* Multi-organization and multi-location management
+* Payroll preparation and invoice management
 
+### EasyAppointments [![GitHub stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers)
 
+**[EasyAppointments](https://github.com/alextselegidis/easyappointments)** [![GitHub stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers) is a highly customizable open-source appointment and staff scheduling system.
 
-* Flexible weekly schedules
+Features include:
+* Real-time worker availability management
+* Working plans and shift definitions
+* Customer and employee booking portal
+* Google Calendar & synchronization support
+* REST API and webhook integrations
 
-* Multiple schedule views
+### Staffjoy Suite [![GitHub stars](https://img.shields.io/github/stars/staffjoy/suite?style=social&color=white)](https://github.com/staffjoy/suite/stargazers)
 
-* Employee assignments
+**[Staffjoy Suite](https://github.com/staffjoy/suite)** [![GitHub stars](https://img.shields.io/github/stars/staffjoy/suite?style=social&color=white)](https://github.com/staffjoy/suite/stargazers) is the open-sourced codebase of the venture-backed scheduling startup Staffjoy, providing a full scheduling application architecture.
 
-* Shift booking
+Features include:
+* Microservices architecture (Go, Python, React)
+* Shift scheduling and assignment engines
+* Time-off and availability tracking
+* Mobile-responsive interface
+* Comprehensive REST APIs for workforce management
 
-* Employee preferences
+### SirChri Employee Shift Scheduler [![GitHub stars](https://img.shields.io/github/stars/SirChri/employee-shift-scheduler?style=social&color=white)](https://github.com/SirChri/employee-shift-scheduler/stargazers)
 
-* Change notifications
-
-* PDF schedule export
-
-* Real-time collaboration
-
-* Shift optimization
-
-* Employee management
-
-
-
-The project describes itself as a fully featured self-hosted shift-planning solution with AI-assisted optimization.
-
-
-
-### Shift Scheduler
-
-
-
-**[SirChri Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** is a self-hosted employee scheduling application built with:
-
-
-
+**[SirChri Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/SirChri/employee-shift-scheduler?style=social&color=white)](https://github.com/SirChri/employee-shift-scheduler/stargazers) is a self-hosted employee scheduling application built with:
 * React
-
 * TypeScript
-
 * Spring Boot
-
 * PostgreSQL
-
 * FullCalendar
-
 * Docker
 
+It supports employee management, customer management, event scheduling, and recurring events.
 
+### Shift Scheduler by oasido [![GitHub stars](https://img.shields.io/github/stars/oasido/shift-scheduler?style=social&color=white)](https://github.com/oasido/shift-scheduler/stargazers)
 
-It supports employee management, customer management, event scheduling and recurring events.
-
-
-
-### Shift Scheduler by oasido
-
-
-
-**[oasido/shift-scheduler](https://github.com/oasido/shift-scheduler)** provides a simple self-hosted scheduling application.
-
-
+**[oasido/shift-scheduler](https://github.com/oasido/shift-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/oasido/shift-scheduler?style=social&color=white)](https://github.com/oasido/shift-scheduler/stargazers) provides a simple self-hosted scheduling application.
 
 Features include:
-
-
-
 * Employee schedules
-
 * Absence requests
-
 * Availability/block dates
-
 * Manager administration
-
 * Schedule publishing
-
 * Docker deployment
-
 * MongoDB storage
 
+### Schichtplaner [![GitHub stars](https://img.shields.io/github/stars/lennystepn-hue/schichtplaner?style=social&color=white)](https://github.com/lennystepn-hue/schichtplaner/stargazers)
 
+**[Schichtplaner](https://github.com/lennystepn-hue/schichtplaner)** [![GitHub stars](https://img.shields.io/github/stars/lennystepn-hue/schichtplaner?style=social&color=white)](https://github.com/lennystepn-hue/schichtplaner/stargazers) is a self-hosted shift-planning and workforce-management application.
 
-It is MIT licensed.
+Features include:
+* Flexible weekly schedules
+* Multiple schedule views
+* Employee assignments
+* Shift booking
+* Employee preferences
+* Change notifications
+* PDF schedule export
+* Real-time collaboration
+* Shift optimization
+* Employee management
 
+### Employee Scheduling System [![GitHub stars](https://img.shields.io/github/stars/mperry-dev/employee_scheduling_system?style=social&color=white)](https://github.com/mperry-dev/employee_scheduling_system/stargazers)
 
-
-### Employee Scheduling System
-
-
-
-**[mperry-dev/employee_scheduling_system](https://github.com/mperry-dev/employee_scheduling_system)** is an employee scheduling project built around the OptaPlanner constraint-solving engine.
-
-
+**[mperry-dev/employee_scheduling_system](https://github.com/mperry-dev/employee_scheduling_system)** [![GitHub stars](https://img.shields.io/github/stars/mperry-dev/employee_scheduling_system?style=social&color=white)](https://github.com/mperry-dev/employee_scheduling_system/stargazers) is an employee scheduling project built around the OptaPlanner constraint-solving engine.
 
 Its design specifically addresses:
-
-
-
 * Employee availability
-
 * Shift requirements
-
 * Constraint-based allocation
-
 * CSV input/output
-
 * Automatic schedule generation
-
 * Programmatic schedule manipulation
 
+### Workforce Scheduling Platform [![GitHub stars](https://img.shields.io/github/stars/KANAL1234/workforce-scheduling-platform?style=social&color=white)](https://github.com/KANAL1234/workforce-scheduling-platform/stargazers)
 
-
-### Workforce Scheduling Platform
-
-
-
-**[KANAL1234/workforce-scheduling-platform](https://github.com/KANAL1234/workforce-scheduling-platform)** provides an open-source workforce scheduling implementation using:
-
-
-
+**[KANAL1234/workforce-scheduling-platform](https://github.com/KANAL1234/workforce-scheduling-platform)** [![GitHub stars](https://img.shields.io/github/stars/KANAL1234/workforce-scheduling-platform?style=social&color=white)](https://github.com/KANAL1234/workforce-scheduling-platform/stargazers) provides an open-source workforce scheduling implementation using:
 * React
-
 * Vite
-
 * Tailwind
-
 * FastAPI
-
 * Python
-
 * PostgreSQL
-
 * Google OR-Tools
 
-
-
-It focuses on automated scheduling, fairness, employee preferences and staffing requirements.
-
-
+It focuses on automated scheduling, fairness, employee preferences, and staffing requirements.
 
 ## Open-Source Workforce & HR Platforms
 
+### Odoo Community [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 
-
-### ERPNext
-
-
-
-**[ERPNext](https://github.com/frappe/erpnext)** is one of the strongest open-source foundations for building a broader workforce platform.
-
-
-
-It provides:
-
-
-
-* Employee management
-
-* HR
-
-* Attendance
-
-* Leave
-
-* Payroll
-
-* Employee records
-
-* Shift management
-
-* Timesheets
-
-* Company/department structures
-
-
-
-ERPNext describes itself as a 100% open-source ERP system covering accounting, HR and many other business functions.
-
-
-
-For a Deputy-like system, ERPNext can provide the **HR + attendance + payroll foundation**, while a dedicated scheduling engine can handle advanced roster optimization.
-
-
-
-### Odoo Community
-
-
-
-**[Odoo Community](https://github.com/odoo/odoo)** provides a broad open-source ERP foundation.
-
-
+**[Odoo Community](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) provides a broad open-source ERP foundation.
 
 Relevant capabilities include:
-
-
-
 * Employees
-
 * Attendance
-
 * Time off
-
 * Planning
-
 * Calendar
-
 * Timesheets
-
 * Payroll-related integrations
-
 * Departments
-
 * Contracts
-
 * Resources
-
-
 
 Odoo Planning can be extended to implement sophisticated shift and resource scheduling.
 
+### ERPNext [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
+**[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) is one of the strongest open-source foundations for building a broader workforce platform.
 
-### Frappe HR
+It provides:
+* Employee management
+* HR
+* Attendance
+* Leave
+* Payroll
+* Employee records
+* Shift management
+* Timesheets
+* Company/department structures
 
+### Frappe HR [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
 
-
-**[Frappe HR](https://github.com/frappe/hrms)** provides open-source HR management capabilities for organizations using the Frappe ecosystem.
-
-
+**[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) provides open-source HR management capabilities for organizations using the Frappe ecosystem.
 
 Useful components include:
-
-
-
 * Employees
-
 * Attendance
-
 * Leave
-
 * Payroll
-
 * Employee lifecycle
-
 * Work shifts
-
 * HR policies
 
+### Horilla [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
 
+**[Horilla](https://github.com/horilla-opensource/horilla)** [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers) is a free, modern open-source HR software built with Django and Python.
 
-### OrangeHRM
+Useful components include:
+* Employee profiles & onboarding
+* Shift scheduling & rotas
+* Attendance tracking & biometric device integrations
+* Leave management & approval workflows
+* Asset & document management
 
+### OrangeHRM [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
 
+**[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers) is an open-source HR-management platform that can provide the employee-management layer around a scheduling system.
 
-**[OrangeHRM](https://github.com/orangehrm/orangehrm)** is an open-source HR-management platform that can provide the employee-management layer around a scheduling system.
+### Sentrifugo [![GitHub stars](https://img.shields.io/github/stars/sapplica/sentrifugo?style=social&color=white)](https://github.com/sapplica/sentrifugo/stargazers)
 
-
-
-### Sentrifugo
-
-
-
-**[Sentrifugo](https://github.com/sapplica/sentrifugo)** is an open-source HR management application that can serve as another HR foundation for custom scheduling systems.
-
-
+**[Sentrifugo](https://github.com/sapplica/sentrifugo)** [![GitHub stars](https://img.shields.io/github/stars/sapplica/sentrifugo?style=social&color=white)](https://github.com/sapplica/sentrifugo/stargazers) is an open-source HR management application that can serve as another HR foundation for custom scheduling systems.
 
 ## Open-Source Scheduling & Optimization Engines
 
+### Google OR-Tools [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)
 
-
-This is arguably the most important open-source layer.
-
-
-
-### Google OR-Tools
-
-
-
-**[Google OR-Tools](https://github.com/google/or-tools)** is one of the strongest open-source optimization frameworks for employee scheduling.
-
-
+**[Google OR-Tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) is one of the strongest open-source optimization frameworks for employee scheduling.
 
 It supports:
-
-
-
-* Constraint programming
-
+* Constraint programming (CP-SAT)
 * Integer programming
-
 * Routing
-
 * Scheduling
-
 * Optimization
-
 * Resource allocation
 
+Typical employee shift constraints include availability, max weekly hours, minimum rest, skill requirements, shift coverage, and overtime limits.
 
+### Pyomo [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)
 
-Employee shift scheduling can be formulated as a constraint optimization problem.
-
-
-
-Typical constraints include:
-
-
-
-* Employee availability
-
-* Maximum weekly hours
-
-* Minimum rest
-
-* Skill requirements
-
-* Shift coverage
-
-* Overtime
-
-* Employee preferences
-
-* Consecutive shifts
-
-* Night-shift rules
-
-* Fairness
-
-* Labor cost
-
-
-
-### Timefold
-
-
-
-**[Timefold](https://github.com/TimefoldAI/timefold-solver)** is an open-source constraint-solving platform descended from the OptaPlanner ecosystem.
-
-
-
-Timefold provides scheduling and optimization capabilities, including employee shift scheduling.
-
-
-
-Its employee-scheduling model explicitly considers availability, skills, preferences, labor regulations, shift patterns and budgets.
-
-
-
-### OptaPlanner
-
-
-
-**[OptaPlanner](https://github.com/kiegroup/optaplanner)** is the predecessor ecosystem from which Timefold evolved.
-
-
-
-It has historically been used for:
-
-
-
-* Employee rostering
-
-* Vehicle routing
-
-* Task assignment
-
-* Timetabling
-
-* Resource scheduling
-
-
-
-Existing OptaPlanner-based employee scheduling applications remain useful references.
-
-
-
-### PyWorkforce
-
-
-
-**[PyWorkforce](https://github.com/4dcu-be/pyworkforce)** provides Python tools for optimization problems including scheduling.
-
-
-
-### PuLP
-
-
-
-**[PuLP](https://github.com/coin-or/pulp)** is an open-source Python linear-programming modeler.
-
-
-
-It can be used to construct workforce scheduling optimization models.
-
-
-
-### COIN-OR
-
-
-
-**[COIN-OR](https://github.com/coin-or)** is a collection of open-source mathematical-optimization projects.
-
-
-
-Useful for:
-
-
-
-* Linear programming
-
-* Mixed-integer programming
-
-* Scheduling
-
-* Resource optimization
-
-
-
-### SCIP
-
-
-
-**[SCIP](https://github.com/scipopt/scip)** is an optimization framework for mixed-integer programming and constraint problems.
-
-
-
-### Pyomo
-
-
-
-**[Pyomo](https://github.com/Pyomo/pyomo)** provides Python-based mathematical optimization modeling.
-
-
-
-It can be used for:
-
-
-
+**[Pyomo](https://github.com/Pyomo/pyomo)** [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) provides Python-based mathematical optimization modeling for:
 * Shift allocation
-
 * Workforce planning
-
 * Staffing optimization
-
 * Labor-cost minimization
 
+### PuLP [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)
 
+**[PuLP](https://github.com/coin-or/pulp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers) is an open-source Python linear-programming modeler used to construct workforce scheduling optimization models.
+
+### Timefold [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)
+
+**[Timefold](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers) is an open-source constraint-solving platform descended from the OptaPlanner ecosystem. Its employee-scheduling model explicitly considers availability, skills, preferences, labor regulations, shift patterns, and budgets.
+
+### COIN-OR [![GitHub stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers)
+
+**[COIN-OR](https://github.com/coin-or/Cbc)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers) is a collection of open-source mathematical-optimization projects for mixed-integer programming, linear programming, and resource optimization.
+
+### SCIP [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers)
+
+**[SCIP](https://github.com/scipopt/scip)** [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers) is an optimization framework for mixed-integer programming and constraint problems.
+
+### OptaPlanner [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaplanner?style=social&color=white)](https://github.com/kiegroup/optaplanner/stargazers)
+
+**[OptaPlanner](https://github.com/kiegroup/optaplanner)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaplanner?style=social&color=white)](https://github.com/kiegroup/optaplanner/stargazers) is the predecessor ecosystem from which Timefold evolved, historically used for employee rostering and resource scheduling.
+
+### PyWorkforce [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers)
+
+**[PyWorkforce](https://github.com/rodrigo-arenas/pyworkforce)** [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers) provides Python tools for workforce management optimization problems including shift scheduling, multiskill rostering, and Erlang queuing models.
 
 ## Open-Source Roster & Calendar Systems
 
+### Day.js [![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs?style=social&color=white)](https://github.com/iamkun/dayjs/stargazers)
 
+**[Day.js](https://github.com/iamkun/dayjs)** [![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs?style=social&color=white)](https://github.com/iamkun/dayjs/stargazers) provides lightweight date/time manipulation for scheduling interfaces.
 
-### Cal.com
+### Cal.com [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
 
+**[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) is an open-source scheduling infrastructure platform providing availability, booking, calendar integrations, scheduling APIs, time zones, and notifications.
 
+### date-fns [![GitHub stars](https://img.shields.io/github/stars/date-fns/date-fns?style=social&color=white)](https://github.com/date-fns/date-fns/stargazers)
 
-**[Cal.com](https://github.com/calcom/cal.com)** is an open-source scheduling infrastructure platform.
+**[date-fns](https://github.com/date-fns/date-fns)** [![GitHub stars](https://img.shields.io/github/stars/date-fns/date-fns?style=social&color=white)](https://github.com/date-fns/date-fns/stargazers) provides modern modular date utilities for JavaScript/TypeScript scheduling applications.
 
+### FullCalendar [![GitHub stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social&color=white)](https://github.com/fullcalendar/fullcalendar/stargazers)
 
+**[FullCalendar](https://github.com/fullcalendar/fullcalendar)** [![GitHub stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social&color=white)](https://github.com/fullcalendar/fullcalendar/stargazers) is the premier open-source calendar UI component for building manager-facing shift schedules with drag-and-drop, resource timelines, and day/week/month views.
 
-It is primarily designed for appointment/event scheduling rather than employee shift rostering, but provides useful building blocks for:
+### React Big Calendar [![GitHub stars](https://img.shields.io/github/stars/jquense/react-big-calendar?style=social&color=white)](https://github.com/jquense/react-big-calendar/stargazers)
 
-
-
-* Availability
-
-* Calendar integrations
-
-* Booking
-
-* Scheduling APIs
-
-* Time zones
-
-* Notifications
-
-
-
-### FullCalendar
-
-
-
-**[FullCalendar](https://github.com/fullcalendar/fullcalendar)** is one of the most useful open-source calendar UI components for building manager-facing shift schedules.
-
-
-
-It can provide:
-
-
-
-* Day view
-
-* Week view
-
-* Month view
-
-* Drag-and-drop scheduling
-
-* Resource timelines
-
-* Event editing
-
-* Recurring events
-
-
-
-### React Big Calendar
-
-
-
-**[React Big Calendar](https://github.com/jquense/react-big-calendar)** provides a React-based calendar interface useful for custom workforce applications.
-
-
-
-### Day.js
-
-
-
-**[Day.js](https://github.com/iamkun/dayjs)** provides lightweight date/time manipulation for scheduling interfaces.
-
-
-
-### date-fns
-
-
-
-**[date-fns](https://github.com/date-fns/date-fns)** provides date utilities for scheduling applications.
-
-
+**[React Big Calendar](https://github.com/jquense/react-big-calendar)** [![GitHub stars](https://img.shields.io/github/stars/jquense/react-big-calendar?style=social&color=white)](https://github.com/jquense/react-big-calendar/stargazers) provides a React-based calendar interface built for modern browsers and custom workforce applications.
 
 ## Open-Source Time & Attendance
 
+### Odoo Attendance [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 
+**[Odoo Attendance](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) provides employee attendance, kiosk check-in, and PIN-based clocking integrated with shift planning.
 
-A Deputy-like platform generally needs scheduling **plus** time and attendance.
+### ERPNext Attendance [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
+**[ERPNext Attendance](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) provides biometric integration, employee attendance records, and timesheets connected to shift types.
 
+### Frappe HR Attendance [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
 
-Useful open-source building blocks include:
+**[Frappe HR Attendance](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) provides automated shift assignment, attendance auto-marking, and leave management.
 
+### Traccar [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers)
 
+**[Traccar](https://github.com/traccar/traccar)** [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) is an open-source GPS tracking system ideal for field workforces, mobile shift workers, geofencing clock-ins, and driver dispatching.
 
-### ERPNext Attendance
+### Kimai [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)
 
+**[Kimai](https://github.com/kimai/kimai)** [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers) is an open-source time-tracking and timesheet platform with multi-user permissions, mobile friendly interface, and reporting.
 
+### TimeTrex [![GitHub stars](https://img.shields.io/github/stars/timetrex/timetrex?style=social&color=white)](https://github.com/timetrex/timetrex/stargazers)
 
-ERPNext provides employee attendance and HR records that can be integrated with custom shift schedules.
-
-
-
-### Frappe HR
-
-
-
-Frappe HR provides employee attendance and work-shift functionality.
-
-
-
-### Odoo Attendance
-
-
-
-Odoo Community provides employee attendance capabilities that can be combined with planning.
-
-
-
-### Kimai
-
-
-
-**[Kimai](https://github.com/kimai/kimai)** is an open-source time-tracking platform.
-
-
-
-Although designed primarily for project time tracking, it can provide useful time-entry infrastructure.
-
-
-
-### TimeTrex Community Edition
-
-
-
-**[TimeTrex](https://github.com/timetrex/timetrex)** provides open-source workforce-management/time-and-attendance capabilities.
-
-
-
-Potential functionality includes:
-
-
-
-* Employee time
-
-* Attendance
-
-* Scheduling
-
-* Payroll-related workflows
-
-* Time clocks
-
-
-
-### Sentrifugo
-
-
-
-Can provide employee records and HR infrastructure around a custom scheduler.
-
-
+**[TimeTrex](https://github.com/timetrex/timetrex)** [![GitHub stars](https://img.shields.io/github/stars/timetrex/timetrex?style=social&color=white)](https://github.com/timetrex/timetrex/stargazers) provides open-source workforce management, time and attendance, facial recognition/biometric time clocks, and job costing.
 
 ## Open-Source Employee Communication
 
+### Rocket.Chat [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
 
+**[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) provides secure self-hosted team messaging, omnichannel communication, and mobile apps.
 
-Shift scheduling becomes much more useful when employees can:
+### Mattermost [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
 
+**[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) provides self-hosted team communication, channels, and webhook integrations for shift alerts.
 
+### ntfy [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)
 
-* View schedules
+**[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) provides simple HTTP-based pub-sub push notifications to mobile and desktop devices for shift publish and swap alerts.
 
-* Receive notifications
+### Gotify [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)
 
-* Request swaps
+**[Gotify](https://github.com/gotify/server)** [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers) provides a self-hosted push-notification server and client for dispatch alerts.
 
-* Request leave
+### Element [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)
 
-* Accept open shifts
+**[Element](https://github.com/element-hq/element-web)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) provides an open-source secure messaging client for decentralized team communication.
 
-* Message managers
+### Matrix Synapse [![GitHub stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers)
 
-* Report availability
-
-
-
-### Mattermost
-
-
-
-**[Mattermost](https://github.com/mattermost/mattermost)** provides self-hosted team communication.
-
-
-
-### Rocket.Chat
-
-
-
-**[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** provides self-hosted messaging and collaboration.
-
-
-
-### Matrix
-
-
-
-**[Matrix](https://github.com/matrix-org/synapse)** provides an open communications protocol and server ecosystem.
-
-
-
-### Element
-
-
-
-**[Element](https://github.com/element-hq/element-web)** provides an open-source Matrix client.
-
-
-
-### ntfy
-
-
-
-**[ntfy](https://github.com/binwiederhier/ntfy)** provides self-hosted push notifications.
-
-
-
-### Gotify
-
-
-
-**[Gotify](https://github.com/gotify/server)** provides a self-hosted push-notification server.
-
-
+**[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) provides an open, federated communications protocol and server ecosystem.
 
 ## Open-Source Analytics & Workforce Intelligence
 
+### Grafana [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
 
+**[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) provides interactive dashboards for shift coverage, overtime monitoring, labor cost trends, and attendance tracking.
 
-### Grafana
+### Apache Superset [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
 
+**[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) provides scalable, interactive workforce business intelligence and SQL exploration.
 
+### Pandas [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers)
 
-**[Grafana](https://github.com/grafana/grafana)** can provide dashboards for:
+**[Pandas](https://github.com/pandas-dev/pandas)** [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) provides flexible data analysis and manipulation for workforce records, schedules, and optimization preprocessing.
 
+### Metabase [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
 
+**[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) provides intuitive self-service business intelligence for managers and HR teams.
 
-* Scheduled hours
+### Apache Spark [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
 
-* Actual hours
+**[Apache Spark](https://github.com/apache/spark)** [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) processes massive multi-facility workforce datasets and enterprise attendance archives.
 
-* Overtime
+### DuckDB [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
 
-* Absence
+**[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) is an in-process analytical SQL database ideal for analyzing workforce schedules, timesheet aggregates, and historical compliance.
 
-* Labor utilization
+### Polars [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
 
-* Shift coverage
+**[Polars](https://github.com/pola-rs/polars)** [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) provides blazingly fast DataFrame processing for real-time schedule checks and attendance data transformations.
 
-* Staffing gaps
+## Open-Source Workflow, Low-Code & Automation
 
+### n8n [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
 
+**[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) provides workflow automation connecting scheduling applications to email, Slack, SMS, databases, and payroll webhooks.
 
-### Apache Superset
+### NocoDB [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 
+**[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) is an open-source smart spreadsheet-database alternative to Airtable, perfect for customized shift logs, employee availability tables, and roster tracking.
 
+### Apache Airflow [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 
-**[Apache Superset](https://github.com/apache/superset)** provides interactive workforce analytics.
+**[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) automates recurring workforce-data pipelines, nightly roster syncs, and compliance reporting.
 
+### ToolJet [![GitHub stars](https://img.shields.io/github/stars/tooljet/tooljet?style=social&color=white)](https://github.com/tooljet/tooljet/stargazers)
 
+**[ToolJet](https://github.com/tooljet/tooljet)** [![GitHub stars](https://img.shields.io/github/stars/tooljet/tooljet?style=social&color=white)](https://github.com/tooljet/tooljet/stargazers) is an open-source low-code framework to build custom internal shift manager portals, approval flows, and employee directory tools.
 
-### Metabase
+### Appsmith [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
 
+**[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) is a low-code developer platform for quickly assembling custom dispatch dashboards, swap approval screens, and roster views.
 
+### Prefect [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)
 
-**[Metabase](https://github.com/metabase/metabase)** provides self-service business intelligence.
+**[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers) provides modern workflow coordination and resilient scheduling pipeline orchestration.
 
+### Node-RED [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
 
+**[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) provides low-code event-driven automation useful for IoT biometric time clocks and notification webhooks.
 
-### DuckDB
+### Temporal [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
 
+**[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) orchestrates durable workforce workflows such as shift swap approvals, multi-day schedule publishing, and payroll closing.
 
+### Dagster [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
 
-**[DuckDB](https://github.com/duckdb/duckdb)** is particularly useful for analyzing workforce schedules and large attendance datasets.
+**[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) provides data-asset orchestration for labor forecasting and analytics.
 
+### Planka [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
 
+**[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers) is an open-source realtime collaborative kanban board for shift task assignments, team handoffs, and daily operational duties.
 
-### Apache Spark
+### Baserow [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
 
-
-
-**[Apache Spark](https://github.com/apache/spark)** can process very large workforce datasets.
-
-
-
-### Polars
-
-
-
-**[Polars](https://github.com/pola-rs/polars)** provides fast DataFrame processing for schedule and attendance analytics.
-
-
-
-### Pandas
-
-
-
-**[Pandas](https://github.com/pandas-dev/pandas)** remains useful for workforce analysis, schedule exports and optimization preprocessing.
-
-
-
-## Open-Source Workflow & Automation
-
-
-
-### Temporal
-
-
-
-**[Temporal](https://github.com/temporalio/temporal)** can orchestrate durable workforce workflows:
-
-
-
-* Schedule publication
-
-* Shift reminders
-
-* Swap approvals
-
-* Leave approvals
-
-* Payroll exports
-
-* Attendance reconciliation
-
-
-
-### Apache Airflow
-
-
-
-**[Apache Airflow](https://github.com/apache/airflow)** can automate recurring workforce-data pipelines.
-
-
-
-### Dagster
-
-
-
-**[Dagster](https://github.com/dagster-io/dagster)** provides data orchestration.
-
-
-
-### Prefect
-
-
-
-**[Prefect](https://github.com/PrefectHQ/prefect)** provides workflow automation.
-
-
-
-### Node-RED
-
-
-
-**[Node-RED](https://github.com/node-red/node-red)** provides event-driven automation useful for notifications and integrations.
-
-
-
-### n8n
-
-
-
-**[n8n](https://github.com/n8n-io/n8n)** can connect scheduling applications to:
-
-
-
-* Email
-
-* Messaging
-
-* HR systems
-
-* Payroll
-
-* Calendar
-
-* CRM
-
-* Databases
-
-* Webhooks
-
-
+**[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers) is an open-source no-code database platform useful for employee roster databases and time-off request tracking.
 
 ## Additional Strong Open-Source Options
 
+* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) — Workflow automation and integrations platform connecting scheduling events to email, chat, and payroll.
 
+* **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) — Interactive dashboards and operational monitoring for workforce metrics and coverage.
 
-* **[Schichtplaner](https://github.com/lennystepn-hue/schichtplaner)** — self-hosted shift planning with optimization.
+* **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) — Enterprise business intelligence and workforce analytics.
 
-* **[Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** — React/Spring Boot/PostgreSQL scheduling application.
+* **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) — Open-source smart spreadsheet-database for shift tracking and employee rosters.
 
-* **[Shift Scheduler](https://github.com/oasido/shift-scheduler)** — simple self-hosted shift scheduling and absence management.
+* **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Full-featured open-source ERP with dedicated planning, employee, and attendance modules.
 
-* **[Employee Scheduling System](https://github.com/mperry-dev/employee_scheduling_system)** — OptaPlanner-based employee scheduling.
+* **[Pandas](https://github.com/pandas-dev/pandas)** [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) — Data manipulation and analysis library for workforce analytics and scheduling data.
 
-* **[Workforce Scheduling Platform](https://github.com/KANAL1234/workforce-scheduling-platform)** — FastAPI/React/OR-Tools scheduling platform.
+* **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) — Simple self-service BI and analytics for shift data and attendance insights.
 
-* **[ERPNext](https://github.com/frappe/erpnext)** — open-source ERP/HR foundation.
+* **[Day.js](https://github.com/iamkun/dayjs)** [![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs?style=social&color=white)](https://github.com/iamkun/dayjs/stargazers) — Fast 2KB date/time manipulation library for scheduling web applications.
 
-* **[Frappe HR](https://github.com/frappe/hrms)** — HR and attendance.
+* **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) — Open-source scheduling infrastructure, availability APIs, and booking system.
 
-* **[Odoo](https://github.com/odoo/odoo)** — ERP/HR/planning.
+* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) — Workflow orchestration platform for scheduled workforce data pipelines.
 
-* **[OrangeHRM](https://github.com/orangehrm/orangehrm)** — HR management.
+* **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) — Self-hosted team chat, omnichannel messaging, and mobile communication.
 
-* **[TimeTrex](https://github.com/timetrex/timetrex)** — time and workforce management.
+* **[Apache Spark](https://github.com/apache/spark)** [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) — Distributed computing engine for processing large-scale historical attendance data.
 
-* **[Kimai](https://github.com/kimai/kimai)** — time tracking.
+* **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) — In-process SQL analytical database for high-speed workforce reporting.
 
-* **[Timefold](https://github.com/TimefoldAI/timefold-solver)** — constraint optimization.
+* **[ToolJet](https://github.com/tooljet/tooljet)** [![GitHub stars](https://img.shields.io/github/stars/tooljet/tooljet?style=social&color=white)](https://github.com/tooljet/tooljet/stargazers) — Open-source low-code framework to build custom shift management and dispatch tools.
 
-* **[OptaPlanner](https://github.com/kiegroup/optaplanner)** — scheduling optimization.
+* **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) — Low-code developer platform for assembling roster tools and manager admin panels.
 
-* **[Google OR-Tools](https://github.com/google/or-tools)** — constraint optimization.
+* **[Polars](https://github.com/pola-rs/polars)** [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) — Lightning-fast DataFrame library for real-time schedule validation and analytics.
 
-* **[Pyomo](https://github.com/Pyomo/pyomo)** — mathematical optimization.
+* **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) — 100% open-source ERP with comprehensive HR, shift management, and attendance features.
 
-* **[PuLP](https://github.com/coin-or/pulp)** — linear programming.
+* **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) — Secure self-hosted collaboration and messaging platform for distributed teams.
 
-* **[SCIP](https://github.com/scipopt/scip)** — optimization.
+* **[date-fns](https://github.com/date-fns/date-fns)** [![GitHub stars](https://img.shields.io/github/stars/date-fns/date-fns?style=social&color=white)](https://github.com/date-fns/date-fns/stargazers) — Modern modular JavaScript date utility library for scheduling calendars.
 
-* **[PyWorkforce](https://github.com/4dcu-be/pyworkforce)** — workforce optimization.
+* **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) — Simple HTTP-based pub-sub push notification service for shift and swap alerts.
 
-* **[FullCalendar](https://github.com/fullcalendar/fullcalendar)** — scheduling calendar UI.
+* **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers) — Workflow orchestration for resilient automated scheduling pipelines.
 
-* **[React Big Calendar](https://github.com/jquense/react-big-calendar)** — React scheduling UI.
+* **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) — Event-driven visual programming for IoT time clocks and notification triggers.
 
-* **[Cal.com](https://github.com/calcom/cal.com)** — scheduling infrastructure.
+* **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) — Durable execution platform for multi-step shift swap and approval workflows.
 
-* **[Mattermost](https://github.com/mattermost/mattermost)** — team communication.
+* **[FullCalendar](https://github.com/fullcalendar/fullcalendar)** [![GitHub stars](https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social&color=white)](https://github.com/fullcalendar/fullcalendar/stargazers) — Full-sized drag-and-drop JavaScript calendar and timeline component for shift schedules.
 
-* **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — team messaging.
+* **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) — Data orchestrator for labor forecasting, schedule syncs, and data modeling.
 
-* **[Matrix/Synapse](https://github.com/matrix-org/synapse)** — communications.
+* **[Gotify](https://github.com/gotify/server)** [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers) — Self-hosted push notification server for mobile dispatch alerts.
 
-* **[ntfy](https://github.com/binwiederhier/ntfy)** — notifications.
+* **[Google OR-Tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) — Fast, production-grade constraint programming and combinatorial optimization engine.
 
-* **[Gotify](https://github.com/gotify/server)** — push notifications.
+* **[Element](https://github.com/element-hq/element-web)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) — Secure Matrix-based decentralized team communication client.
 
-* **[Grafana](https://github.com/grafana/grafana)** — workforce dashboards.
+* **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers) — Real-time collaborative kanban board for shift task management and handoffs.
 
-* **[Metabase](https://github.com/metabase/metabase)** — BI.
+* **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) — Federated real-time communications server protocol.
 
-* **[Apache Superset](https://github.com/apache/superset)** — analytics.
+* **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) — Dedicated open-source HRMS with shift management, attendance, and leave workflows.
 
-* **[DuckDB](https://github.com/duckdb/duckdb)** — analytics.
+* **[React Big Calendar](https://github.com/jquense/react-big-calendar)** [![GitHub stars](https://img.shields.io/github/stars/jquense/react-big-calendar?style=social&color=white)](https://github.com/jquense/react-big-calendar/stargazers) — React-based event calendar component with week/day/month views.
 
-* **[Polars](https://github.com/pola-rs/polars)** — high-performance analytics.
+* **[Traccar](https://github.com/traccar/traccar)** [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) — Open-source GPS tracking and geofencing platform for mobile and field shift workers.
 
-* **[Pandas](https://github.com/pandas-dev/pandas)** — workforce data analysis.
+* **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers) — Open-source no-code relational database for workforce roster management.
 
-* **[Temporal](https://github.com/temporalio/temporal)** — workflow orchestration.
+* **[Kimai](https://github.com/kimai/kimai)** [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers) — Open-source multi-user time-tracking and timesheet system with mobile support.
 
-* **[Airflow](https://github.com/apache/airflow)** — scheduled workflows.
+* **[Gauzy](https://github.com/ever-co/gauzy)** [![GitHub stars](https://img.shields.io/github/stars/ever-co/gauzy?style=social&color=white)](https://github.com/ever-co/gauzy/stargazers) — Open-source ERP, HRM, and workforce management platform for on-demand teams.
 
-* **[Dagster](https://github.com/dagster-io/dagster)** — data orchestration.
+* **[EasyAppointments](https://github.com/alextselegidis/easyappointments)** [![GitHub stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers) — Open-source staff scheduling and appointment booking system.
 
-* **[Prefect](https://github.com/PrefectHQ/prefect)** — workflow orchestration.
+* **[Pyomo](https://github.com/Pyomo/pyomo)** [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) — Python-based mathematical modeling language for complex shift allocation problems.
 
-* **[n8n](https://github.com/n8n-io/n8n)** — integrations and automation.
+* **[PuLP](https://github.com/coin-or/pulp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers) — Linear programming modeler in Python for workforce optimization and shift constraints.
 
-* **[Node-RED](https://github.com/node-red/node-red)** — event-driven automation.
+* **[Timefold](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers) — Open-source AI constraint solver for employee rostering and shift optimization.
 
+* **[Horilla](https://github.com/horilla-opensource/horilla)** [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers) — Free and open-source HR software with employee shift scheduling and attendance.
 
+* **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers) — Modular open-source HR software providing employee directory and leave tracking.
+
+* **[COIN-OR (Cbc)](https://github.com/coin-or/Cbc)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers) — Open-source mixed integer programming solver for scheduling optimization.
+
+* **[Staffjoy Suite](https://github.com/staffjoy/suite)** [![GitHub stars](https://img.shields.io/github/stars/staffjoy/suite?style=social&color=white)](https://github.com/staffjoy/suite/stargazers) — Complete open-source shift scheduling application suite and microservices.
+
+* **[SCIP](https://github.com/scipopt/scip)** [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers) — High-performance solver for mixed-integer programming and constraint integer programming.
+
+* **[Sentrifugo](https://github.com/sapplica/sentrifugo)** [![GitHub stars](https://img.shields.io/github/stars/sapplica/sentrifugo?style=social&color=white)](https://github.com/sapplica/sentrifugo/stargazers) — Open-source HR management application for employee records and organizational structure.
+
+* **[OptaPlanner](https://github.com/kiegroup/optaplanner)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaplanner?style=social&color=white)](https://github.com/kiegroup/optaplanner/stargazers) — Java constraint satisfaction solver for employee rostering and vehicle routing.
+
+* **[PyWorkforce](https://github.com/rodrigo-arenas/pyworkforce)** [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers) — Python package for workforce management optimization, Erlang staffing, and shift design.
+
+* **[SirChri Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/SirChri/employee-shift-scheduler?style=social&color=white)](https://github.com/SirChri/employee-shift-scheduler/stargazers) — Self-hosted shift scheduler built with React, Spring Boot, and FullCalendar.
+
+* **[Shift Scheduler by oasido](https://github.com/oasido/shift-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/oasido/shift-scheduler?style=social&color=white)](https://github.com/oasido/shift-scheduler/stargazers) — Simple self-hosted shift scheduling and absence management tool.
+
+* **[Schichtplaner](https://github.com/lennystepn-hue/schichtplaner)** [![GitHub stars](https://img.shields.io/github/stars/lennystepn-hue/schichtplaner?style=social&color=white)](https://github.com/lennystepn-hue/schichtplaner/stargazers) — Self-hosted shift planning and workforce scheduling with optimization.
+
+* **[TimeTrex](https://github.com/timetrex/timetrex)** [![GitHub stars](https://img.shields.io/github/stars/timetrex/timetrex?style=social&color=white)](https://github.com/timetrex/timetrex/stargazers) — Open-source workforce management, biometric time tracking, and payroll compliance.
+
+* **[Employee Scheduling System](https://github.com/mperry-dev/employee_scheduling_system)** [![GitHub stars](https://img.shields.io/github/stars/mperry-dev/employee_scheduling_system?style=social&color=white)](https://github.com/mperry-dev/employee_scheduling_system/stargazers) — OptaPlanner-based employee shift scheduling demonstration.
+
+* **[Workforce Scheduling Platform](https://github.com/KANAL1234/workforce-scheduling-platform)** [![GitHub stars](https://img.shields.io/github/stars/KANAL1234/workforce-scheduling-platform?style=social&color=white)](https://github.com/KANAL1234/workforce-scheduling-platform/stargazers) — Full-stack FastAPI/React/OR-Tools workforce scheduling application.
 
 ## Commercial Shift Scheduling → Open-Source Equivalents
 
