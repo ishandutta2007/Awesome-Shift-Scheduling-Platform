@@ -92,129 +92,29 @@ Contributions welcome! Open a PR to add/update entries. Clearly distinguish **co
 
 
 
-* **[Deputy](https://www.deputy.com/)**
-
-  Workforce-management platform combining employee scheduling, time and attendance, labor optimization, compliance, payroll integrations and workforce communication. Particularly suited to organizations with hourly employees and multiple locations.
-
-
-
-* **[Planday](https://www.planday.com/)**
-
-  Workforce-management and employee-scheduling platform focused on shift planning, employee availability, time tracking, payroll workflows and workforce communication. Particularly strong in hospitality and service businesses.
-
-
-
-* **[When I Work](https://wheniwork.com/)**
-
-  Mobile-first employee scheduling, time-clock and team-communication platform supporting schedule creation, availability, shift swapping, open shifts, time tracking and employee messaging.
-
-
-
-* **[Connecteam](https://connecteam.com/)**
-
-  Workforce-management platform designed especially for deskless and distributed employees. Combines scheduling with time tracking, communication, tasks, forms, training and operations.
-
-
-
-* **[Humanity](https://www.humanity.com/)**
-
-  Employee scheduling and workforce-management platform now associated with ADP, offering scheduling, forecasting, availability, shift management, time and attendance and workforce planning.
-
-
-
-* **[Homebase](https://joinhomebase.com/)**
-
-  Small-business workforce platform combining scheduling, time clocks, employee communication, HR and payroll-related workflows.
-
-
-
-* **[Quinyx](https://www.quinyx.com/)**
-
-  Enterprise workforce-management platform focused on intelligent scheduling, demand forecasting, time and attendance, labor optimization and workforce planning.
-
-
-
-* **[7shifts](https://www.7shifts.com/)**
-
-  Specialized employee scheduling and workforce-management platform for restaurants, with labor budgeting, scheduling, time clocks, team communication and payroll/POS integrations.
-
-
-
-* **[Sling](https://getsling.com/)**
-
-  Employee scheduling and communication platform supporting shift planning, availability, shift swapping, messaging, tasks and labor-cost management.
-
-
-
-* **[ZoomShift](https://www.zoomshift.com/)**
-
-  Straightforward employee scheduling platform designed around shift creation, templates, employee availability, shift trades, time tracking and workforce communication.
-
-
-
-* **[Skello](https://www.skello.io/)**
-
-  Workforce-management platform focused on scheduling, time tracking, payroll preparation and labor compliance.
-
-
-
-* **[Shyft](https://www.myshyft.com/)**
-
-  Employee scheduling and shift-management platform emphasizing shift swapping, open shifts, employee communication and workforce flexibility.
-
-
-
-* **[Findmyshift](https://www.findmyshift.com/)**
-
-  Online employee scheduling and timesheet platform emphasizing simple schedule creation and workforce time tracking.
-
-
-
-* **[Agendrix](https://www.agendrix.com/)**
-
-  Employee scheduling, time tracking and workforce-management platform for shift-based organizations.
-
-
-
-* **[Workfeed](https://workfeed.io/)**
-
-  Employee scheduling and workforce-management platform focused on simple scheduling, communication and shift management.
-
-
-
-* **[WhenToWork](https://www.whentowork.com/)**
-
-  Employee scheduling platform with availability management, automated scheduling and employee notifications.
-
-
-
-* **[Humanforce](https://www.humanforce.com/)**
-
-  Workforce-management platform covering scheduling, time and attendance, compliance, payroll and workforce analytics.
-
-
-
-* **[UKG Ready / UKG Workforce Management](https://www.ukg.com/)**
-
-  Enterprise workforce-management ecosystem covering scheduling, time, attendance, workforce planning and HR.
-
-
-
-* **[Workforce.com](https://www.workforce.com/)**
-
-  Workforce-management platform combining employee scheduling, time tracking, labor forecasting, compliance and payroll integrations.
-
-
-
-* **[TCP Humanity](https://www.tcpsoftware.com/)**
-
-  Workforce-management software covering scheduling, time and attendance and workforce operations.
-
-
-
-* **[RotaCloud](https://rotacloud.com/)**
-
-  Cloud-based rota/shift scheduling and time-management platform focused on small and medium-sized organizations.
+| Platform | Description / Primary Focus | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Deputy](https://www.deputy.com/)** | Workforce-management platform combining employee scheduling, time and attendance, labor optimization, compliance, payroll integrations, and workforce communication. Suited for hourly employees and multi-location businesses. | Starting at **$5.00/user/month** (Lite plan, billed annually; or $6.00/user/mo billed monthly; min. $30/month spend) | **31-day free trial** with full feature access and no credit card required (max 10 trial accounts per email); no permanent free plan. |
+| **[Planday](https://www.planday.com/)** | Workforce-management and shift-scheduling platform focused on shift planning, employee availability, time tracking, payroll workflows, and communication. Strong in hospitality and service businesses. | Starting at **$2.99/user/month** (or £1.99/user/month, Starter plan; minimum 5 users) | **30-day free trial** with access to Plus plan features, unlimited sample/staff users, and no credit card required; no permanent free plan. |
+| **[When I Work](https://wheniwork.com/)** | Mobile-first employee scheduling, time-clock, and team-communication platform supporting schedule creation, availability, shift swapping, open shifts, time tracking, and employee messaging. | Starting at **$2.50/user/month** (Standard Scheduling plan; $4.00/user/month including Time & Attendance) | **14-day free trial** with complete access to scheduling, messaging, and time clock for unlimited users, no credit card required; no permanent free plan. |
+| **[Connecteam](https://connecteam.com/)** | All-in-one workforce-management platform designed for deskless and distributed employees. Combines scheduling with time tracking, communication, tasks, forms, checklists, and operations. | Starting at **$35.00/month** (billed monthly) or **$29.00/month** (billed annually) for Operations Basic Hub (covers up to first 30 users, +$0.60/user/month thereafter) | **Free forever Small Business Plan** for up to 10 users (includes scheduling, time tracking, and team chat); **14-day free trial** on paid plans with full hub access and no credit card required. |
+| **[Humanity](https://www.humanity.com/)** | Employee scheduling and workforce-management platform associated with TCP/ADP, providing rule-based scheduling, demand forecasting, availability, shift trades, and compliance management. | Starting at **$3.00/user/month** (billed annually) or **$3.50/user/month** (billed monthly) for Starter plan (minimum monthly spend of $80.00) | **30-day free trial** with full access to automated scheduling, mobile apps, and shift management, no credit card required; no permanent free plan. |
+| **[Homebase](https://joinhomebase.com/)** | Small-business workforce platform combining scheduling, time clocks, team communication, HR, compliance tools, and payroll-related workflows. | Starting at **$30.00/location/month** (billed monthly) or **$24.00/location/month** (billed annually) for Essentials plan (covers unlimited employees) | **Free forever Basic Plan** for 1 location and up to 20 employees (basic scheduling, time tracking, and messaging; excludes auto-scheduling and PTO); **14-day free trial** on paid plans for unlimited employees. |
+| **[Quinyx](https://www.quinyx.com/)** | Enterprise workforce-management platform focused on AI-powered intelligent scheduling, demand forecasting, labor optimization, time and attendance, and workforce planning. | Starting at **~$5.00/user/month** (PEPM starting tier, typically $5.00–$8.00/user/month depending on modules and enterprise scale) | **14 to 30-day guided pilot / sandbox environment** provided upon request with a sales consultant; no self-service permanent free plan or open trial. |
+| **[7shifts](https://www.7shifts.com/)** | Specialized employee scheduling and workforce-management platform for restaurants, featuring labor budgeting, scheduling, time clocks, team communication, and POS/payroll integrations. | Starting at **$44.99/location/month** (billed monthly) or **$39.99/location/month** (billed annually) for Essentials plan (covers up to 30 employees) | **Free forever Comp Plan** for 1 location and up to 30 employees (basic scheduling and team messaging; excludes time clocking and POS integration); **14-day free trial** on paid plans with full Pro features and no credit card required. |
+| **[Sling](https://getsling.com/)** | Employee scheduling and team communication platform supporting shift planning, availability, shift swapping, messaging, task assignment, and labor-cost management. | Starting at **$2.00/user/month** (billed monthly) or **$1.70/user/month** (billed annually) for Premium plan (minimum $20.00/month spend) | **Free forever Free Plan** for up to 30 users across 1 location (shift scheduling, shift alarms, and internal chat; excludes time clock and labor cost controls); **15-day free trial** on paid plans with no credit card required. |
+| **[ZoomShift](https://www.zoomshift.com/)** | Straightforward employee scheduling platform built around shift templates, availability, shift trades, time tracking, timesheets, and workforce communication. | Starting at **$2.50/active user/month** (billed monthly) or **$2.00/active user/month** (billed annually) for Starter plan | **Free forever Essentials Plan** for 1 location and up to 20 active users (up to 2 weeks advance scheduling, shift notes, and confirmation); **14-day free trial** on paid plans with no credit card required. |
+| **[Skello](https://www.skello.io/)** | European workforce-management platform focused on shift scheduling, smart planning, time tracking, payroll preparation, and collective agreement labor compliance. | Starting at **€59.00/location/month** (Basic plan, billed annually; or ~€69–€79/month billed monthly) | **14-day free trial** with access to core shift scheduling, timesheets, and team communication features, no credit card required; no permanent free plan. |
+| **[Shyft](https://www.myshyft.com/)** | Employee scheduling and shift-management platform emphasizing peer-to-peer shift swapping, open shifts, team communication, and workforce flexibility. | Starting at **$24.95/location/month** for Shyft Starter (covers up to 20 users and 2 administrators) | **14-day free trial** with full access to mobile shift swapping, schedule posting, and team messaging, no credit card required; no permanent free plan. |
+| **[Findmyshift](https://www.findmyshift.com/)** | Web-based employee scheduling and timesheet platform emphasizing simple drag-and-drop schedule creation, time tracking, and labor cost reporting. | Starting at **$27.00/team/month** (billed monthly) or **$21.00/team/month** (billed annually) for Starter plan (covers up to 20 members) | **Free forever plan** for up to 5 team members (1 manager, 1 week historical data, 1 week forward planning); **3-month (90 days) free trial** for paid plans with no credit card required. |
+| **[Agendrix](https://www.agendrix.com/)** | Employee scheduling, time tracking, and workforce-management software designed for shift-based businesses, emphasizing staff availability and shift coordination. | Starting at **CA$3.25 (approx. $2.50 USD)/user/month** for Essential plan (scheduling & availability management) | **Up to 21-day free trial** (starts with 7 days, expandable to 21 days by completing guided onboarding tasks; full access, no credit card required); no permanent free plan. |
+| **[Workfeed](https://workfeed.io/)** | Employee scheduling and workforce-management platform focused on simple scheduling, team communication, shift swapping, and automated time tracking. | Starting at **€3.00 (approx. $3.30 USD)/user/month** for Basic plan (unlimited shifts, scheduling, and timesheets) | **Free forever Starter Plan** capped at a lifetime limit of 500 published shifts (1 manager, 1 schedule template, 1 department); **14-day free trial** on paid plans with full access to Pro+ features and no credit card required. |
+| **[WhenToWork](https://www.whentowork.com/)** | Dedicated employee scheduling platform featuring automated shift assignment, employee preference management, availability tracking, and notifications. | Starting at **$28.00/month** (billed monthly at $2.85/employee) or **$17.10/month** ($205/year at $1.71/employee/month) for up to 10 employees (flat tier, all features included) | **30-day free trial** with full access to all scheduling features and unlimited schedules, no credit card or phone required; also includes an interactive read-only test drive; no permanent free plan. |
+| **[Humanforce](https://www.humanforce.com/)** | Cloud workforce-management platform covering intelligent rostering, time and attendance, award compliance, payroll integration, and workforce analytics. | Starting at **~$4.50 – $6.00/active user/month** for Core WFM tier (billed based on active timesheet employees per month) | **14 to 30-day guided pilot / sandbox trial** provided upon request following product consultation; no open self-service free plan. |
+| **[UKG Ready / UKG Workforce Management](https://www.ukg.com/)** | Comprehensive enterprise workforce-management ecosystem covering scheduling, time and attendance, accruals, labor compliance, and HR. | Starting at **~$20.00 – $23.00 PEPM** (per employee per month, base scheduling and time tracking package; contracts typically $20–$33 PEPM depending on selected modules) | **30-day proof-of-concept (POC) sandbox environment** configured upon request via enterprise sales consultation; no self-service permanent free plan. |
+| **[Workforce.com](https://www.workforce.com/)** | Workforce-management platform combining employee scheduling, time tracking, labor demand forecasting, wage compliance, and payroll integrations. | Starting at **$4.00/user/month** (base Scheduling tier; or CAD $12.80/user/month for complete All-in-One suite) | **14-day free trial** with full access to scheduling, time tracking, and mobile apps, no credit card required; no permanent free plan. |
+| **[TCP Humanity](https://www.tcpsoftware.com/)** | Enterprise workforce-management and time collection suite (combining Humanity Scheduling with TimeClock Plus hardware and software). | Starting at **$3.00/user/month** (billed annually) for Starter Scheduling plan (minimum monthly billing $80.00; TimeClock Plus from $2.50/user/month) | **30-day free trial** with full access to shift scheduling and mobile features, no credit card required; no permanent free plan. |
+| **[RotaCloud](https://rotacloud.com/)** | Cloud-based rota and shift scheduling platform focused on small and medium-sized organizations, featuring shift planning, leave management, and time clocking. | Starting at **£10.00/month** (Standard plan covering up to 5 employees; ~£2.00/employee/month as team scales) | **30-day free trial** with full access to rota planning, unlimited shifts, and mobile app, no credit card required; no permanent free plan. |
 
 
 
